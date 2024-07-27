@@ -1,0 +1,166 @@
+.green-box{
+    background-color: rgb(91 215 91);
+    width: 40%;
+    margin: 40px auto;
+    padding: 100px 50px;
+    border-radius: 16px;
+    box-sizing: border-box;
+}
+
+.green-box h1{
+    font-family: "roboto";
+    font-weight: bold;
+}
+.text{
+    font-weight: 100;
+}
+
+.btn{
+    border: none;
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+
+.profiles{
+    width: 40%;
+    border: 2px solid lightgray;
+    margin: 40px auto;
+    margin-bottom: 0;
+    padding: 20px 20px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+}
+
+.profiles-heading{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.profiles-text{
+    font-size: 15px;
+    color: rgb(95, 99, 104);
+}
+
+.profiles img{
+    width: 20%;
+    border-radius: 50%;
+    padding: 20px 30px;
+}
+
+.profiles-2{
+    width: 40%;
+    border: 2px solid lightgray;
+    margin: 0 auto;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    color: #0b57d0;
+}
+
+
+.googlecard{
+    width: 40%;
+    border: 2px solid lightgray;
+    margin: 40px auto;
+    border-radius: 16px;
+    box-sizing: border-box;
+}
+
+.icon-content{
+    display: flex;
+    justify-content: start;
+}
+
+
+.icon{
+    color: rgb(95, 99, 104);
+}
+
+.icon-content p{
+    margin: 0;
+    margin-left: 15px;
+}
+.googlecard-inner{
+    padding: 20px 20px;
+    margin-bottom: 10px;
+}
+
+.googlecard img{
+    width: 100%;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.googlecard-inner h6{
+    font-size: 25px;
+    font-family: 'Roboto';
+    margin: 10px 0;
+}
+
+.googlecard-inner p{
+    color: rgb(95, 99, 104);
+    font-size: 20px;
+}
+
+.googlecard-btn{
+    color: #0b57d0;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px 40px;
+    border: 2px solid lightgrey;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+
+.login{
+    width: 40%;
+    margin: 40px auto;
+    padding: 80px 60px;
+    border-radius: 16px;
+    box-sizing: border-box;
+}
+
+.login img{
+    width: 60%;
+    margin: 20px 100px;
+}
+
+.login h4{
+    text-align: center;
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mail, .pass{
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 20px 40px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 20px;
+}
+
+.login button{
+    padding: 15px 40px;
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    margin: 10px 120px;
+}
+
+
+.login p{
+    color: rgb(95, 99, 104);
+    text-align: center;
+}
+
+.login span{
+    text-decoration: underline;
+    color: black;
+}
